@@ -44,6 +44,7 @@ public class CreateWishList
 	String explistname4 = "Private";
 	String explistname5 = "Apple iPhone 11 Pro Max (256GB) - Gold";
 	String Del = "Delete";
+
 	@BeforeClass
 	public void beforeClass() throws InterruptedException, EmailException
 	{
